@@ -57,34 +57,31 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: BSc in Mathematics & Its Applications Specialist (Probability/Statistics) 
+    - degree: BSc Applied Mathematics Specialist (Probability/Statistics) 
       university: University of Toronto
       time: 2019 - 2023
-      Honours: |
+      details: |
         - Dean's List in 2021
         - Dean's List in 2020
-      details: |
-        - Linear Algebra II (GPA 4.0/4.0)
-        - Calculus Sci II (GPA 4.0/4.0)
-        - Abstract Mathematics (GPA 4.0/4.0)
-        - Groups and Symmetries (GPA 4.0/4.0)
-        - Ordinary Diff Equat (GPA 4.0/4.0)
-        - Complex Variables (GPA 3.7/4.0)
-          - Dean's List in 2021
-          - Dean's List in 2020
+          - Linear Algebra II (GPA 4.0/4.0)
+          - Calculus Sci II (GPA 4.0/4.0)
+          - Abstract Mathematics (GPA 4.0/4.0)
+          - Groups and Symmetries (GPA 4.0/4.0)
+          - Ordinary Diff Equat (GPA 4.0/4.0)
+          - Complex Variables (GPA 3.7/4.0)
     - degree: BSc in Statistics
       university: University of Toronto
       time: 2019 - 2023
       details: |
-        - Probability I (GPA 4.0/4.0) 
-        - Methods of Data Analysis I (GPA 4.0/4.0)
-        - Time Series Analysis (GPA 4.0/4.0)
-        - Data Analysis II (GPA 4.0/4.0)
-        - Probability and Statistics I (GPA 3.7/4.0)
-        - STAT Reasoning (GPA 3.7/4.0)
-        - Survey Sam & Obs Data (GPA 3.7/4.0)
-          - Dean's List in 2021
-          - Dean's List in 2020
+        - Dean's List in 2021
+        - Dean's List in 2020
+          - Probability I (GPA 4.0/4.0) 
+          - Methods of Data Analysis I (GPA 4.0/4.0)
+          - Time Series Analysis (GPA 4.0/4.0)
+          - Data Analysis II (GPA 4.0/4.0)
+          - Probability and Statistics I (GPA 3.7/4.0)
+          - STAT Reasoning (GPA 3.7/4.0)
+          - Survey Sam & Obs Data (GPA 3.7/4.0)
 experiences:
     - role: Internship in Consulting
       time: 2021.5 - 2021.8
