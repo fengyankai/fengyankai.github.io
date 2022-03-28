@@ -88,11 +88,10 @@ experiences:
       time: 2021.5 - 2021.8
       company: Pera Corporation Ltd.
       details: | 
-        Participated in various projects such as semiconductor 
+        - Participated in various projects such as semiconductor 
         industry, digital twin, hydrogen energy, industrial simulation, etc.
         And independently completed 62 pages of semiconductor industry combing report. 
-        
-        Crawled nearly one million data using web crawler, 
+        - Crawled nearly one million data using web crawler, 
         cleaned up the data using R and VBA of Excel, used across 
         validation to construct enterprise scoring models based on 
         the obtained data, searched for potential target enterprises. 
@@ -100,34 +99,28 @@ experiences:
         participated in the whole enterprise map project. And 
         successfully identified tens of thousands of priority target 
         customer companies and gained the approval of project.
-          - Bullet point
-          - Bullet point
     - role: Market Analyst
       time: 2020.4 - 2021.2
       company: 
       details: |
-        Analyze the market data of our competing brand organizations to 
+        - Analyze the market data of our competing brand organizations to 
         help managers identify new ways to promote and target customer groups.
-        
-        Responsible for collating and analyzing new media operation data 
+        - Responsible for collating and analyzing new media operation data 
         and tracking market feedback to successfully achieve the transformation 
         from a weak market promotion position to a strong one.
-          - Bullet point
-          - Bullet point
     - role: IELTS tutor
       time: 2018.6 - 2018.8 and 2019.6 - 2019.9
       company: New Oriental Education Technology Co.
       details: |
-        Teaching IELTS exam skills and helping students to consolidate 
-        their knowledge of the course.
-        
-        Assist the lead teacher in developing a one-on-one learning 
-        program for students in the four areas of listening, speaking, reading and writing.
-        
         Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
-          - Bullet point
-          - Bullet point
+        - Teaching IELTS exam skills and helping students to consolidate 
+        their knowledge of the course.
+        - Assist the lead teacher in developing a one-on-one learning 
+        program for students in the four areas of listening, speaking, reading and writing.
+        - Teaching IELTS exam skills and helping students to consolidate 
+        their knowledge of the course.
+        - Bullet point
 projects:
     title: Projects
     intro: >
