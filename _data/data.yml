@@ -18,7 +18,7 @@ sidebar:
     website: #do not add http://
     linkedin: Yankai Feng
     xing:
-    github: fengyankai
+    github:
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -35,7 +35,7 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom: 
+      - idiom:
         level: 
 
     interests:
@@ -58,64 +58,74 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BSc in Mathematics & Its Applications Specialist (Probability/Statistics) 
+      university: University of Toronto
+      time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Linear Algebra II (GPA 4.0/4.0)
+        Calculus Sci II (GPA 4.0/4.0)
+        Abstract Mathematics (GPA 4.0/4.0)
+        Groups and Symmetries (GPA 4.0/4.0)
+        Ordinary Diff Equat (GPA 4.0/4.0)
+        Complex Variables (GPA 3.7/4.0)
+          - Dean's List in 2021
+          - Dean's List in 2020
+    - degree: BSc in Statistics
+      university: University of Toronto
+      time: 2019 - 2023
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Probability I (GPA 4.0/4.0) 
+        Methods of Data Analysis I (GPA 4.0/4.0)
+        Time Series Analysis (GPA 4.0/4.0)
+        Data Analysis II (GPA 4.0/4.0)
+        Probability and Statistics I (GPA 3.7/4.0)
+        STAT Reasoning (GPA 3.7/4.0)
+        Survey Sam & Obs Data (GPA 3.7/4.0)
+          - Dean's List in 2021
+          - Dean's List in 2020
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Internship in Consulting
+      time: 2021.5 - 2021.8
+      company: Pera Corporation Ltd.
+      details: | 
+        Participated in various projects such as semiconductor 
+        industry, digital twin, hydrogen energy, industrial simulation, etc.
+        And independently completed 62 pages of semiconductor industry combing report. 
+        
+        Crawled nearly one million data using web crawler, 
+        cleaned up the data using R and VBA of Excel, used across 
+        validation to construct enterprise scoring models based on 
+        the obtained data, searched for potential target enterprises. 
+        Visualize the conclusion through Excel and Tableau, 
+        participated in the whole enterprise map project. And 
+        successfully identified tens of thousands of priority target 
+        customer companies and gained the approval of project.
+          - Bullet point
+          - Bullet point
+    - role: Market Analyst
+      time: 2020.4 - 2021.2
+      company: 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
+        Analyze the market data of our competing brand organizations to 
+        help managers identify new ways to promote and target customer groups.
+        
+        Responsible for collating and analyzing new media operation data 
+        and tracking market feedback to successfully achieve the transformation 
+        from a weak market promotion position to a strong one.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: IELTS tutor
+      time: 2018.6 - 2018.8 and 2019.6 - 2019.9
+      company: New Oriental Education Technology Co.
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
+        Teaching IELTS exam skills and helping students to consolidate 
+        their knowledge of the course.
+        
+        Assist the lead teacher in developing a one-on-one learning 
+        program for students in the four areas of listening, speaking, reading and writing.
+        
+        Collect student information and create learning, feedback, and 
+        statistical forms as well as teaching evaluation forms.
           - Bullet point
           - Bullet point
 projects:
@@ -145,49 +155,49 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
+#publications:
+    #title: Publications
+    #intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
       bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+    #papers:
+      #- title: The Art of Computer Programming
+        #link: "#"
+        #authors: Donald E. Knuth
+        #conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     #- title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        #link: "#"
+        #authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        #conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+      #- title: A syntax directed compiler for Algol 60
+        #link: "#"
+        #authors: Edgar T. Irons
+        #conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: R
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Python
+        level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Tableau
+        level: 70%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: VBA
         level: 60%
+
+      - name: 
+        level:
+
+      - name:
+        level:
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
