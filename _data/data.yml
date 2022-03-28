@@ -50,7 +50,7 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      Summarise career here lorem ipsum dolor sit amet, consectetuer
       adipiscing elit. You can [download this free resume/CV template here]().
       Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
       penatibus et magnis dis parturient montes, nascetur ridiculus mus.
@@ -69,7 +69,7 @@ education:
           - Groups and Symmetries (GPA 4.0/4.0)
           - Ordinary Diff Equat (GPA 4.0/4.0)
           - Complex Variables (GPA 3.7/4.0)
-    - degree: BSc in Statistics
+    - degree: BSc in Statistics Major
       university: University of Toronto
       time: 2019 - 2023
       details: |
