@@ -35,8 +35,8 @@ sidebar:
       - idiom: English
         level: Professional
 
-      - idiom:
-        level: 
+      #- idiom:
+        #level: 
 
     interests:
       - item: Table Tennis
@@ -112,15 +112,12 @@ experiences:
       time: 2018.6 - 2018.8 and 2019.6 - 2019.9
       company: New Oriental Education Technology Co.
       details: |
-        Collect student information and create learning, feedback, and 
-        statistical forms as well as teaching evaluation forms.
         - Teaching IELTS exam skills and helping students to consolidate 
         their knowledge of the course.
         - Assist the lead teacher in developing a one-on-one learning 
         program for students in the four areas of listening, speaking, reading and writing.
-        - Teaching IELTS exam skills and helping students to consolidate 
-        their knowledge of the course.
-        - Bullet point
+        - Collect student information and create learning, feedback, and 
+        statistical forms as well as teaching evaluation forms.
 projects:
     title: Projects
     intro: >
