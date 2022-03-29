@@ -130,11 +130,11 @@ projects:
     intro: >
       
     assignments:
-      - title: Data Analysis Of pursuing higher education
+      - title: Data Analysis Of Pursuing Higher Education
         link: "#hook"
         tagline: "Construct a model of the influence of different neighborhoods on thoughts of students pursuing higher education."
 
-      - title: Smartphone Addiction and Drug Addiction
+      - title: Smartphone Addiction And Drug Addiction
         link: "#"
         tagline: "Explore whether smartphone addiction has similar characteristics similar to drug addiction"
 
@@ -142,7 +142,7 @@ projects:
         link: "#"
         tagline: "Constructed logistic regression model and post-stratification with the purpose to forecast polling and tracking popularity of election candidates and members of governments"
 
-      - title: Factors that may impact admission rates of universities in the U. S
+      - title: Factors That May Impact Admission Rates Of Universities In The U. S
         link: "#"
         tagline: "Investigate which of the factors/variables in the provided dataset best explains the variation observed in admission rates for 1508 colleges and universities in the U.S."
 
