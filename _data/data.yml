@@ -68,19 +68,7 @@ career-profile:
        data analytical aspect in achieving goals that align with the holistic organizational mission
 
 education:
-    - degree: BSc Applied Mathematics Specialist (Probability/Statistics) 
-      university: University of Toronto
-      time: 2019 - 2023
-      details: |
-        - Dean's List in 2021
-        - Dean's List in 2020
-          - Linear Algebra II (GPA 4.0/4.0)
-          - Calculus Sci II (GPA 4.0/4.0)
-          - Abstract Mathematics (GPA 4.0/4.0)
-          - Groups and Symmetries (GPA 4.0/4.0)
-          - Ordinary Diff Equat (GPA 4.0/4.0)
-          - Complex Variables (GPA 3.7/4.0)
-    - degree: BSc in Statistics Major
+    - degree: BSc Applied Mathematics Specialist (Probability/Statistics) and Statistics Major
       university: University of Toronto
       time: 2019 - 2023
       details: |
@@ -93,6 +81,24 @@ education:
           - Probability and Statistics I (GPA 3.7/4.0)
           - STAT Reasoning (GPA 3.7/4.0)
           - Survey Sam & Obs Data (GPA 3.7/4.0)
+          - Linear Algebra II (GPA 4.0/4.0)
+          - Calculus Sci II (GPA 4.0/4.0)
+          - Abstract Mathematics (GPA 4.0/4.0)
+          - Groups and Symmetries (GPA 4.0/4.0)
+          - Ordinary Diff Equat (GPA 4.0/4.0)
+          - Complex Variables (GPA 3.7/4.0)
+        EXTRACURRICULAR EXPERIENCES:
+          - Educating Chinese Children Hope Offered (ECCHO) - Event VP
+            - Developed and executed marketing strategies based on 
+            evolving market needs back with statistical information sourced through analytical initiatives.
+            - Coordinated with internal and external stakeholders on 
+            an international scale to effectively carry out marketing initiatives 
+            with demonstrated success in achieving set KPIs.
+            - Provided analytical findings by identifying key data attributes and 
+            converting data to insights for growth and scaling opportunities.
+
+#publications:
+
 experiences:
     - role: Internship in Consulting
       time: 2021.5 - 2021.8
@@ -129,11 +135,11 @@ experiences:
         - Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
 projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Data Analysis Of pursuing higher education
         link: "#hook"
@@ -155,12 +161,6 @@ projects:
         link: "#"
         tagline: "Exploring the linear relationship between premature mortality and other information such as teenage pregnancy in Toronto communities"
 
-EXTRACURRICULAR EXPERIENCES:
-      - title: Educating Chinese Children Hope Offered (ECCHO) - Event VP
-        link: "#"
-        tagline: "Developed and executed marketing strategies based on evolving market needs back with statistical information sourced through analytical initiatives."
-
-#publications:
     #title: Publications
     #intro: |
       #You can list your publications in this section. Lorem ipsum dolor sit
