@@ -126,11 +126,9 @@ experiences:
         - Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
 projects:
-    #title: Projects
-    #intro: >
-      #You can list your side projects or open source libraries in this
-      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    title: Projects
+    intro: >
+      
     assignments:
       - title: Data Analysis Of pursuing higher education
         link: "#hook"
