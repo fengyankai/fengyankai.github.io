@@ -50,12 +50,23 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+       - 1 year of experience in executing data-driven solutions to increase efficiency, 
+       accuracy and utility of internal data processing. Experienced at creating data 
+       regression models using predictive data modeling and analyzing data 
+       mining algorithms to deliver insights and implement action-oriented 
+       solutions to complex business problems.
+       - 2+ years of experience in strategizing, interpreting and effectively analyzing 
+       an assort data attributes in streamlining the insight conversion process through 
+       leveraging various data languages such as R and Python.
+       - Exceptional ability to identify data attributes based on business needs, simultaneously 
+       being able to extract and manipulate large sets of raw data from multiple platforms to derive 
+       for meaningful insights
+       - Seeks for a constant state of self-improvement for professional development, 
+       to maintain an inclusive mentality from a proficiency standpoint by proactively 
+       learning techniques for data analysis.
+       - Results oriented with a team-player frame of mind, providing support from a 
+       data analytical aspect in achieving goals that align with the holistic organizational mission
+
 education:
     - degree: BSc Applied Mathematics Specialist (Probability/Statistics) 
       university: University of Toronto
@@ -117,32 +128,39 @@ experiences:
         program for students in the four areas of listening, speaking, reading and writing.
         - Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
-projects:
+projects and extracurricular experiences:
     title: Projects
     intro: >
       You can list your side projects or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
+      - title: Data Analysis Of pursuing higher education
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Construct a model of the influence of different neighborhoods on thoughts of students pursuing higher education."
 
-      - title: DevStudio
+      - title: Smartphone Addiction and Drug Addiction
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Explore whether smartphone addiction has similar characteristics similar to drug addiction"
 
-      - title: Tempo
+      - title: 2025 Canada Election Forecast
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Constructed logistic regression model and post-stratification with the purpose to forecast polling and tracking popularity of election candidates and members of governments"
 
-      - title: Atom
+      - title: Factors that may impact admission rates of universities in the U. S
         link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        tagline: "Investigate which of the factors/variables in the provided dataset best explains the variation observed in admission rates for 1508 colleges and universities in the U.S."
 
-      - title: Delta
+      - title: Data Analysis Of Toronto Health
         link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Exploring the linear relationship between premature mortality and other information such as teenage pregnancy in Toronto communities"
+        
+      - title: Educating Chinese Children Hope Offered (ECCHO) - Event VP
+        link: "#"
+        tagline: "Developed and executed marketing strategies based on evolving market needs back with statistical information sourced through analytical initiatives."
+                 "Coordinated with internal and external stakeholders on an international scale to effectively carry out marketing initiatives with demonstrated success in achieving set KPIs."
+                 "Provided analytical findings by identifying key data attributes and converting data to insights for growth and scaling opportunities."
+
 
 #publications:
     #title: Publications
@@ -182,8 +200,8 @@ skills:
       - name: VBA
         level: 60%
 
-      #- name: 
-        #level:
+      - name: SAS
+        level: 60%
 
       #- name:
         #level:
