@@ -128,12 +128,12 @@ experiences:
         program for students in the four areas of listening, speaking, reading and writing.
         - Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
-projects and extracurricular experiences:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+projects:
+    #title: Projects
+    #intro: >
+      #You can list your side projects or open source libraries in this
+      #section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      #Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: Data Analysis Of pursuing higher education
         link: "#hook"
@@ -154,7 +154,8 @@ projects and extracurricular experiences:
       - title: Data Analysis Of Toronto Health
         link: "#"
         tagline: "Exploring the linear relationship between premature mortality and other information such as teenage pregnancy in Toronto communities"
-        
+
+EXTRACURRICULAR EXPERIENCES:
       - title: Educating Chinese Children Hope Offered (ECCHO) - Event VP
         link: "#"
         tagline: "Developed and executed marketing strategies based on evolving market needs back with statistical information sourced through analytical initiatives."
