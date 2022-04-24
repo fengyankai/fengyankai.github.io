@@ -130,6 +130,14 @@ projects:
     intro: >
       
     assignments:
+      - title: Atmospheric Carbon Dioxide Concentration Forecast
+        link: "#hook"
+        tagline: "Constructed seasonal ARIMA models with the purpose to forecast trends in atmospheric carbon dioxideconcentrations for 10 months."
+        
+      - title: Data Analysis for Marketing Campaign
+        link: "#hook"
+        tagline: "•	Constructed generalized linear mixed model to verify the authenticity of feedback and specifically quantify the severity of the problem."
+        
       - title: Data Analysis Of Pursuing Higher Education
         link: "#hook"
         tagline: "Construct a model of the influence of different neighborhoods on thoughts of students pursuing higher education."
