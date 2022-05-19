@@ -189,14 +189,14 @@ skills:
       - name: Python
         level: 70%
 
-      - name: Tableau
+      - name: SAS
         level: 70%
 
-      - name: VBA
+      - name: Tableau
         level: 60%
 
-      - name: SAS
-        level: 60%
+      - name: VBA
+        level: 50%
 
       #- name:
         #level:
