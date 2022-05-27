@@ -74,6 +74,8 @@ education:
       details: |
         - Dean's List in 2021
         - Dean's List in 2020
+          - Time Series Analysis (GPA 4.0/4.0)
+          - Data Analysis II (GPA 4.0/4.0)
           - Probability I (GPA 4.0/4.0) 
           - Methods of Data Analysis I (GPA 4.0/4.0)
           - Time Series Analysis (GPA 4.0/4.0)
@@ -88,7 +90,9 @@ education:
           - Ordinary Diff Equat (GPA 4.0/4.0)
           - Complex Variables (GPA 3.7/4.0)
 
-#publications:
+Awards & Certificates:
+    - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
+    - SAS Base Certification
 
 experiences:
     - role: Internship in Consulting
@@ -125,6 +129,17 @@ experiences:
         program for students in the four areas of listening, speaking, reading and writing.
         - Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
+    - role: IELTS tutor
+      time: 2018.6 - 2018.8 and 2019.6 - 2019.9
+      company: New Oriental Education Technology Co.
+      details: |
+        - Teaching IELTS exam skills and helping students to consolidate 
+        their knowledge of the course.
+        - Assist the lead teacher in developing a one-on-one learning 
+        program for students in the four areas of listening, speaking, reading and writing.
+        - Collect student information and create learning, feedback, and 
+        statistical forms as well as teaching evaluation forms.
+        
 projects:
     title: Projects
     intro: >
@@ -132,7 +147,7 @@ projects:
     assignments:
       - title: Atmospheric Carbon Dioxide Concentration Forecast
         link: "#hook"
-        tagline: "Constructed seasonal ARIMA models with the purpose to forecast trends in atmospheric carbon dioxideconcentrations for 10 months."
+        tagline: "Constructed seasonal ARIMA models with the purpose to forecast trends in atmospheric carbon dioxide concentrations for 10 months."
         
       - title: Data Analysis for Marketing Campaign
         link: "#hook"
