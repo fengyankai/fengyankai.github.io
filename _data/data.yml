@@ -89,11 +89,7 @@ education:
           - Groups and Symmetries (GPA 4.0/4.0)
           - Ordinary Diff Equat (GPA 4.0/4.0)
           - Complex Variables (GPA 3.7/4.0)
-
-Awards & Certificates:
-    - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
-    - SAS Base Certification
-
+          - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
 experiences:
     - role: Internship in Consulting
       time: 2021.5 - 2021.8
@@ -129,16 +125,16 @@ experiences:
         program for students in the four areas of listening, speaking, reading and writing.
         - Collect student information and create learning, feedback, and 
         statistical forms as well as teaching evaluation forms.
-    - role: IELTS tutor
-      time: 2018.6 - 2018.8 and 2019.6 - 2019.9
-      company: New Oriental Education Technology Co.
+    - role: Vice President
+      time: 2020.8 - 2021.6                        
+      company: Chinese Children Hope Offered（ECCHO）
       details: |
-        - Teaching IELTS exam skills and helping students to consolidate 
-        their knowledge of the course.
-        - Assist the lead teacher in developing a one-on-one learning 
-        program for students in the four areas of listening, speaking, reading and writing.
-        - Collect student information and create learning, feedback, and 
-        statistical forms as well as teaching evaluation forms.
+        - Developed and executed marketing strategies based on evolving market needs back with 
+        statistical information sourced through analytical initiatives.
+        - Coordinated with internal and external stakeholders on an international scale to 
+        effectively carry out marketing initiatives with demonstrated success in achieving set KPIs.
+        - Provided analytical findings by identifying key data attributes and 
+        converting data to insights for growth and scaling opportunities.
         
 projects:
     title: Projects
@@ -146,31 +142,31 @@ projects:
       
     assignments:
       - title: Atmospheric Carbon Dioxide Concentration Forecast
-        link: "#hook"
+        link: "https://drive.google.com/file/d/1MxzXbJlEvynetEAU_UKuiMLy4CR8pqV6/view?usp=sharing"
         tagline: "Constructed seasonal ARIMA models with the purpose to forecast trends in atmospheric carbon dioxide concentrations for 10 months."
         
       - title: Data Analysis for Marketing Campaign
-        link: "#hook"
+        link: "https://drive.google.com/file/d/1LZ6faDKZWAtD3YNKmgMd-BPCxQ-1f0Ru/view?usp=sharing"
         tagline: "Constructed generalized linear mixed model to verify the authenticity of feedback and specifically quantify the severity of the problem."
         
       - title: Data Analysis Of Pursuing Higher Education
-        link: "#hook"
+        link: "https://drive.google.com/file/d/1UOyCdyLU-EkN3R-l6J5LhxOobU6dU-zk/view?usp=sharing"
         tagline: "Construct a model of the influence of different neighborhoods on thoughts of students pursuing higher education."
 
       - title: Smartphone Addiction And Drug Addiction
-        link: "#"
+        link: "https://drive.google.com/file/d/11TaCzquj2bygPf0_Ajhp_MeAQ_aKZ__e/view?usp=sharing"
         tagline: "Explore whether smartphone addiction has similar characteristics similar to drug addiction"
 
       - title: 2025 Canada Election Forecast
-        link: "#"
+        link: "https://drive.google.com/file/d/1awfCqTdxlvhgePu8gICVXJFbpZw2bLyr/view?usp=sharing"
         tagline: "Constructed logistic regression model and post-stratification with the purpose to forecast polling and tracking popularity of election candidates and members of governments"
 
-      - title: Factors That May Impact Admission Rates Of Universities In The U. S
-        link: "#"
-        tagline: "Investigate which of the factors/variables in the provided dataset best explains the variation observed in admission rates for 1508 colleges and universities in the U.S."
+      - title: Explore the impact of smoking on the probability of stroke
+        link: "https://drive.google.com/file/d/1UdTXWq9u51w7sDkB9Eji-yKPfBo2_fOf/view?usp=sharing"
+        tagline: "Investigate which of the factors/variables in the provided dataset best explains the variation observed in probability of stroke."
 
       - title: Data Analysis Of Toronto Health
-        link: "#"
+        link: "https://drive.google.com/file/d/1Kh0gQBu6Jjhd4AWPXih_wH80yY_6yF7p/view?usp=sharing"
         tagline: "Exploring the linear relationship between premature mortality and other information such as teenage pregnancy in Toronto communities"
 
     #title: Publications
@@ -216,5 +212,5 @@ skills:
       #- name:
         #level:
 
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+#footer: >
+    #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
