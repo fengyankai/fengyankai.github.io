@@ -198,16 +198,16 @@ skills:
         level: 90%
 
       - name: Python
-        level: 70%
+        level: 77%
 
       - name: SAS
-        level: 70%
+        level: 75%
 
       - name: Tableau
-        level: 60%
+        level: 75%
 
       - name: VBA
-        level: 50%
+        level: 60%
 
       #- name:
         #level:
