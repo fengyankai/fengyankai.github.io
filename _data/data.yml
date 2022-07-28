@@ -16,7 +16,7 @@ sidebar:
     phone: 647-809-0310
     citizenship: 
     website: #do not add http://
-    linkedin:
+    linkedin: https://www.linkedin.com/in/yankai-feng/
     xing:
     github:
     telegram: # add your nickname without '@' sign
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1dDGlE4OOfwLnnj6joPIPpzyuq3fISRxu/view?usp=sharing
+    pdf: https://drive.google.com/file/d/16KZBtUs_jmsfm1gspWU1Fja3BPtgeohM/view?usp=sharing
 
     languages:
       - idiom: Mandarin
@@ -91,42 +91,38 @@ education:
           - Ordinary Diff Equat (GPA 4.0/4.0)
           - Complex Variables (GPA 3.7/4.0)
 experiences:
-    - role: Internship in Consulting
-      time: 2021.5 - 2021.8
-      company: Pera Corporation Ltd.
+    - role: Consultant Intern
+      time: May.2021 - Aug.2021
+      company: Shanghai Pera Global Corporation Ltd
       details: | 
-        - Participated in various projects such as semiconductor 
-        industry, digital twin, hydrogen energy, industrial simulation, etc.
-        And independently completed 62 pages of semiconductor industry combing report. 
-        - Crawled nearly one million data using web crawler, 
-        cleaned up the data using R and VBA of Excel, used across 
-        validation to construct enterprise scoring models based on 
-        the obtained data, searched for potential target enterprises. 
-        Visualize the conclusion through Excel and Tableau, 
-        participated in the whole enterprise map project. And 
-        successfully identified tens of thousands of priority target 
-        customer companies and gained the approval of project.
-    - role: Market Analyst
-      time: 2020.4 - 2021.2
-      company: 
+        - Explored and Collected information on 17,444 enterprises that operates in 
+        17 industries such as automobile and fuel cells, through web crawler, 
+        cold call and other means. Using R, Excel(vookup, pivot table, VBA)
+        screened companies according to the demand of the marketing department.
+        - Analyzed 100+ semiconductor industry reports, performed a 74-page overviews 
+        and further investigated the most profitable sub-field in the industry and its 
+        correlation with simulation. 
+        - Visualized the project through Excel and Tableau and clarified 8,848 
+        priority target customer companies to marketing department.
+        - Conducted research on market size, value chain, competitive environment of 
+        30+ interested industries and present reports.
+    - role: Marketing Analyst Intern
+      time: Apr.2020 - Feb.2021
+      company: SavvyPro Education
       details: |
-        - Analyze the market data of our competing brand organizations to 
-        help managers identify new ways to promote and target customer groups.
-        - Responsible for collating and analyzing new media operation data 
-        and tracking market feedback to successfully achieve the transformation 
-        from a weak market promotion position to a strong one.
-    - role: IELTS tutor
-      time: 2018.6 - 2018.8 and 2019.6 - 2019.9
-      company: New Oriental Education Technology Co.
+        - Discovered and analyzed trends from collected 1000+ qualitative data to 
+        assess the potential sales of services.
+        - Provided statistics support to make strategies which doubled the amount of 
+        read and retweet on promotion of social media.
+    - role: IELTS Tutor
+      time: Jun.2018 - Aug.2018 & Jun.2019 - Sep.2019
+      company: New Oriental Education & Technology Group Inc
       details: |
-        - Teaching IELTS exam skills and helping students to consolidate 
-        their knowledge of the course.
-        - Assist the lead teacher in developing a one-on-one learning 
-        program for students in the four areas of listening, speaking, reading and writing.
-        - Collect student information and create learning, feedback, and 
-        statistical forms as well as teaching evaluation forms.
+        - Collected students’ information to make teaching plans for the IELTS Program.
+        - Delivered prepared lessons, exerciser, examination to students including 
+        listening, speaking, reading and writing.
     - role: Vice President
-      time: 2020.8 - 2021.6                        
+      time: Aug.2020 - Jun.2021                        
       company: Chinese Children Hope Offered（ECCHO）
       details: |
         - Developed and executed marketing strategies based on evolving market needs back with 
@@ -141,6 +137,10 @@ projects:
     intro: >
       
     assignments:
+      - title: Store Sales Forecast
+        link: ""
+        tagline: "Constructed ARIMA and seasonal ARIMA models to forecast sales of various products in following 15 days in different locations based on the dataset with 1,064,613 observations."
+        
       - title: Atmospheric Carbon Dioxide Concentration Forecast
         link: "https://drive.google.com/file/d/1MxzXbJlEvynetEAU_UKuiMLy4CR8pqV6/view?usp=sharing"
         tagline: "Constructed seasonal ARIMA models with the purpose to forecast trends in atmospheric carbon dioxide concentrations for 10 months."
