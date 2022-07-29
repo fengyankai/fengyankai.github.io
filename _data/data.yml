@@ -51,21 +51,28 @@ career-profile:
     title: Career Profile
     summary: |
        - 1 year of experience in executing data-driven solutions to increase efficiency, 
-       accuracy and utility of internal data processing. Experienced at creating data 
-       regression models using predictive data modeling and analyzing data 
-       mining algorithms to deliver insights and implement action-oriented 
-       solutions to complex business problems.
+       accuracy and utility of internal data processing. 
+       
        - 2+ years of experience in strategizing, interpreting and effectively analyzing 
        an assort data attributes in streamlining the insight conversion process through 
        leveraging various data languages such as R and Python.
+       
+       - Experienced at creating data regression models using predictive data modeling 
+       and analyzing data mining algorithms to deliver insights and implement action-oriented 
+       solutions to complex business problems.
+
        - Exceptional ability to identify data attributes based on business needs, simultaneously 
        being able to extract and manipulate large sets of raw data from multiple platforms to derive 
-       for meaningful insights
+       for meaningful insights.
+       
+       - Results oriented with a team-player frame of mind, providing support from a 
+       data analytical aspect in achieving goals that align with the holistic organizational mission.
+       
        - Seeks for a constant state of self-improvement for professional development, 
        to maintain an inclusive mentality from a proficiency standpoint by proactively 
        learning techniques for data analysis.
-       - Results oriented with a team-player frame of mind, providing support from a 
-       data analytical aspect in achieving goals that align with the holistic organizational mission
+       
+
 
 education:
     - degree: BSc Applied Mathematics Specialist & Statistics Major
@@ -140,6 +147,10 @@ projects:
       - title: Store Sales Forecast
         link: ""
         tagline: "Constructed ARIMA and seasonal ARIMA models to forecast sales of various products in following 15 days in different locations based on the dataset with 1,064,613 observations."
+      
+      - title: Dognition Market Data Analysis With Tableau
+        link: "https://drive.google.com/file/d/1fovRk5R01WjJPnZDrib45Dy3c0QcMtCm/view"
+        tagline: "Investigated and visualized market data through Tableau and converted raw data to meaningful insights to make professional recommendations."
         
       - title: Atmospheric Carbon Dioxide Concentration Forecast
         link: "https://drive.google.com/file/d/1MxzXbJlEvynetEAU_UKuiMLy4CR8pqV6/view?usp=sharing"
