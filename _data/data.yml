@@ -38,14 +38,14 @@ sidebar:
         #level: 
 
     interests:
-      - item: Table Tennis
-        link:
+      - item: Travel
+        link: https://yankai0414.wixsite.com/interests/travel
 
       - item: Cooking
-        link:
+        link: https://yankai0414.wixsite.com/interests/cooking
 
-      - item: Guitar
-        link:
+      - item: Photograph
+        link: https://yankai0414.wixsite.com/interests/photograph
 
 career-profile:
     title: Career Profile
@@ -158,11 +158,11 @@ projects:
         
       - title: Data Analysis Of Pursuing Higher Education
         link: "https://drive.google.com/file/d/1UOyCdyLU-EkN3R-l6J5LhxOobU6dU-zk/view?usp=sharing"
-        tagline: "Construct a model of the influence of different neighborhoods on thoughts of students pursuing higher education."
+        tagline: "Constructed a model of the influence of different neighborhoods on thoughts of students pursuing higher education."
 
       - title: Smartphone Addiction And Drug Addiction
         link: "https://drive.google.com/file/d/11TaCzquj2bygPf0_Ajhp_MeAQ_aKZ__e/view?usp=sharing"
-        tagline: "Explore whether smartphone addiction has similar characteristics similar to drug addiction."
+        tagline: "Explored whether smartphone addiction has similar characteristics similar to drug addiction."
 
       - title: 2025 Canada Election Forecast
         link: "https://drive.google.com/file/d/1awfCqTdxlvhgePu8gICVXJFbpZw2bLyr/view?usp=sharing"
@@ -170,11 +170,11 @@ projects:
 
       - title: Explore the impact of smoking on the probability of stroke
         link: "https://drive.google.com/file/d/1UdTXWq9u51w7sDkB9Eji-yKPfBo2_fOf/view?usp=sharing"
-        tagline: "Investigate which of the factors/variables in the provided dataset best explains the variation observed in probability of stroke."
+        tagline: "Investigated which of the factors/variables in the provided dataset best explains the variation observed in probability of stroke."
 
       - title: Data Analysis Of Toronto Health
         link: "https://drive.google.com/file/d/1Kh0gQBu6Jjhd4AWPXih_wH80yY_6yF7p/view?usp=sharing"
-        tagline: "Exploring the linear relationship between premature mortality and other information such as teenage pregnancy in Toronto communities."
+        tagline: "Explored the linear relationship between premature mortality and other information such as teenage pregnancy in Toronto communities."
         
       - title: Dognition Market Data Analysis With Tableau
         link: "https://drive.google.com/file/d/1fovRk5R01WjJPnZDrib45Dy3c0QcMtCm/view"
