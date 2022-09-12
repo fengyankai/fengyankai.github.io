@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1Kl0aPZHGIXrKwD2M6IofqNHJcDfQap-O/view?usp=sharing
+    pdf: https://drive.google.com/file/d/1L_ew7KyK8wv74ZgJtFikYnq3ikVUrzTI/view?usp=sharing
 
     languages:
       - idiom: Mandarin
@@ -76,7 +76,7 @@ career-profile:
 
 education:
     - degree: BSc Applied Mathematics Specialist & Statistics Major
-      university: University of Toronto
+      university: University of Toronto. 3.62/4.0
       time: 2019 - 2023
       details: |
         - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
@@ -144,6 +144,10 @@ projects:
     intro: >
       
     assignments:
+      - title: Tweet Emotion Recognition With TensorFlow
+        link: "https://colab.research.google.com/drive/1S9KIRDYfZ7HRmA9R-MUDAbzHAKR0Qb_U?usp=sharing"
+        tagline: "Created a recurrent neural network and train it on a tweet emotion dataset to learn to recognize emotions in tweets and evaluated the model with confusion matrix."
+       
       - title: Store Sales Forecast
         link: ""
         tagline: "Constructed ARIMA and seasonal ARIMA models to forecast sales of various products in following 15 days in different locations based on the dataset with 1,064,613 observations."
