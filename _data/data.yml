@@ -145,11 +145,11 @@ projects:
     intro: >
       
     assignments:
-      - title: Exploration of A Potential Positive Relationship Between Recall and White Matter (Individual)
+      - title: Exploration of A Relationship Between Recall and White Matter (Individual)
         link: "https://drive.google.com/file/d/1-oIlASWROcSlqnJ0u3vkUbu-3yhBSo3n/view?usp=share_link"
         tagline: "Constructed robust, multiple linear regression models and linear mixed models to explore the relationship between structural and functional connectivity in the cingulum, fornix and episodic memory using fMRI and diffusion-weighted imaging in a sample of 40 healthy adults." 
         
-      - title: Young people who type faster on a keyboard can type faster on the mobile (Individual)
+      - title: Investigage factors affecting typing speed of young people on mobile and keyboards (Individual)
         link: "https://drive.google.com/file/d/1owqZbcx2UEgINJGhwRMpIhZ-YU5MNFJ0/view?usp=share_link"
         tagline: "Compared typing speed on mobile phones vs. physical keyboards using linear mixed models with 39 students in a 1-minute typing test, and discovered positive correlations between mobile typing speed and English level, age, and physical typing speed."
         
