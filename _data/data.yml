@@ -79,10 +79,9 @@ education:
       university: University of Toronto
       time: 2019 - 2023
       details: |
-        - cGPA: 3.62/4.0
-        - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
         - Dean's List in 2021
         - Dean's List in 2020
+        - cGPA: 3.62/4.0
           - Time Series Analysis (GPA 4.0/4.0)
           - Data Analysis II (GPA 4.0/4.0)
           - Probability I (GPA 4.0/4.0) 
@@ -98,6 +97,9 @@ education:
           - Groups and Symmetries (GPA 4.0/4.0)
           - Ordinary Diff Equat (GPA 4.0/4.0)
           - Complex Variables (GPA 3.7/4.0)
+        - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
+
+
 experiences:
     - role: Consultant Intern
       time: May.2021 - Aug.2021
