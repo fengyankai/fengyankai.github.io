@@ -75,14 +75,21 @@ career-profile:
 
 
 education:
+    - degree: Master of Science in Biostatistics
+      university: University of Toronto - St. George Campus
+      time: Incoming
+      details: |
+
+      
     - degree: BSc Applied Mathematics Specialist & Statistics Major
-      university: University of Toronto
+      university: University of Toronto - St. George Campus
       time: 2019 - 2023
       details: |
         - Honourable Mention Best Statistical Analysis at DataFest@UofT 2022
+        - Dean's List in 2022
         - Dean's List in 2021
         - Dean's List in 2020
-        - cGPA: 3.62/4.0
+        - cGPA: 3.63/4.0
           - Methods for Multivariate Data (GPA 4.0/4.0)
           - Time Series Analysis (GPA 4.0/4.0)
           - Data Analysis II (GPA 4.0/4.0)
@@ -148,6 +155,10 @@ projects:
     intro: >
       
     assignments:
+      - title: Attorneys and Clients Data Analysis for American Bar Association with NLP (Group Work)
+        link: "https://drive.google.com/file/d/1hdqCiZ1ZMOrZW6cvTNGUFDAZM8U5_Ozh/view?usp=drive_link"
+        tagline: "Constructed sentiment analysis and demographic analysis to provide actionable insights and recommendations to the ABA, aiming to enhance communication between clients and attorneys, and optimize human resource allocation."
+        
       - title: Exploration of A Relationship Between Recall and White Matter (Individual)
         link: "https://drive.google.com/file/d/1-oIlASWROcSlqnJ0u3vkUbu-3yhBSo3n/view?usp=share_link"
         tagline: "Constructed robust, multiple linear regression models and linear mixed models to explore the relationship between structural and functional connectivity in the cingulum, fornix and episodic memory using fMRI and diffusion-weighted imaging in a sample of 40 healthy adults." 
