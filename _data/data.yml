@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Yankai Feng
-    tagline: Student at the University of Toronto
+    tagline: A Student at the University of Toronto
     avatar: profile11.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,7 +25,7 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: https://drive.google.com/file/d/1LrpnV8Oc-fGQ9NnbPTUM3DpTLs9k0LvH/view?usp=share_link
+    pdf: https://drive.google.com/file/d/1D8iowN9091IKziwIpWulyKZwAA64_6LW/view?usp=drive_link
 
     languages:
       - idiom: Mandarin
