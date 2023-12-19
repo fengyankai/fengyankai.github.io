@@ -162,7 +162,7 @@ projects:
     assignments:
       - title: Diabetes and Depression Prediction: A Comparison of Various Machine Learning Techniques (Group Work)
         link: "https://drive.google.com/file/d/1FaQCDzNKvVViknqpNF_s4hxz8ZMiDK6m/view?usp=sharing"
-        tagline: "Orchestrated an extensive investigation utilizing electronic medical records (EMR) data to predict diabetes and evaluate depression risk in diabetic patients. Employed logistic regression, neural network, and XGBoost models to attain precise predictions, advancing the landscape of proactive healthcare interventions."
+        tagline: "Employed logistic regression, neural network, and XGBoost models to attain precise predictions, advancing the landscape of proactive healthcare interventions."
 
       - title: Machine Learning for Human Movement Classification Using Wearable Sensors (Group Work)
         link: "https://drive.google.com/file/d/1gYnI8H6_ORBfmb0uHSU_DCqHM6zRo6Pq/view?usp=sharing"
