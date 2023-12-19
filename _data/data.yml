@@ -160,26 +160,7 @@ projects:
     intro: >
       
     assignments:
-      - title: Diabetes and Depression Prediction: A Comparison of Various Machine Learning Techniques (Group Work)
-        link: "https://drive.google.com/file/d/1FaQCDzNKvVViknqpNF_s4hxz8ZMiDK6m/view?usp=sharing"
-        tagline: "Employed logistic regression, neural network, and XGBoost models to attain precise predictions, advancing the landscape of proactive healthcare interventions."
-
-      - title: Machine Learning for Human Movement Classification Using Wearable Sensors (Group Work)
-        link: "https://drive.google.com/file/d/1gYnI8H6_ORBfmb0uHSU_DCqHM6zRo6Pq/view?usp=sharing"
-        tagline: "Developed machine learning algorithms for classifying human movements based on high-frequency sensor data from wearable devices, employing recurrent neural network (RNN) and long short-term memory (LSTM) models."
-
-      - title: Neural Network vs. Traditional Models in ICU Death Prediction: A Comprehensive Analysis (Group Work)
-        link: "https://drive.google.com/file/d/10Z2zonS_IdAnL73s3ubHT9kxTVxuAplD/view?usp=sharing"
-        tagline: "Directed a research initiative evaluating the predictive effectiveness of a neural network model versus traditional methods (logistic regression and Bernoulli Naïve Bayes classifier) in forecasting ICU mortality. The project focused on meticulous feature curation and tackled class imbalance, offering a nuanced insight into the performance of each model."
-        
-      - title: Integrated Analysis of Cardiovascular Health Metrics: Predictive Modeling and Regression Insights (Group Work)
-        link: "https://drive.google.com/file/d/1UiuNTjCJfao3sSDLwnH_e_QWm8q7fOVK/view?usp=sharing"
-        tagline: "Led a comprehensive research project on cardiovascular health, addressing three key questions related to mortality prediction, stroke risk factors, and average glucose levels using logistic and linear regression models."
-        
-      - title: Exploring Obesity Risk Factors: KNN Classification and K-Means Clustering on a Large Public Health Dataset (Group Work)
-        link: "https://drive.google.com/file/d/1eyILRc9pPOFuoKdSzv2mMNzc0ghjM6sU/view?usp=sharing"
-        tagline: "Spearheaded a comprehensive obesity research project utilizing KNN classification and K-Means clustering on a Canadian public health dataset, revealing nuanced insights into the predictive factors and clustering patterns related to BMI, with a focus on gender-stratified analyses."
-        
+     
       - title: Attorneys and Clients Data Analysis for American Bar Association with NLP (Group Work)
         link: "https://drive.google.com/file/d/1hdqCiZ1ZMOrZW6cvTNGUFDAZM8U5_Ozh/view?usp=drive_link"
         tagline: "Constructed sentiment analysis and demographic analysis to provide actionable insights and recommendations to the ABA, aiming to enhance communication between clients and attorneys, and optimize human resource allocation."
