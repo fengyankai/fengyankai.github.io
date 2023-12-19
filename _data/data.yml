@@ -108,11 +108,12 @@ education:
 experiences:
     - role: Practicum Student
       time: Oct 2023 - Present
-      company: Lunenfeld-Tanenbaum Research Institute, Sinai Health
+      company: Lunenfeld-Tanenbaum Research Institute Sinai Health
       details: | 
         - Conducted in-depth analysis of longitudinal serological profiles using linear mixed effects models.
         - Applied quantile regression to identify distinct groups of serological profiles among COVID-19 patients.
-        - Actively collaborated with geneticists, clinicians, and other researchers to incorporate host and virus genetics into the modeling process.
+        - Actively collaborated with geneticists, clinicians, and other researchers to incorporate host and virus genetics 
+        into the modeling process.
     - role: Consultant Intern
       time: May.2021 - Aug.2021
       company: Shanghai Pera Global Corporation Ltd
