@@ -174,7 +174,7 @@ projects:
         link: "https://drive.google.com/file/d/1gYnI8H6_ORBfmb0uHSU_DCqHM6zRo6Pq/view?usp=sharing"
         tagline: "Developed machine learning algorithms for classifying human movements based on high-frequency sensor data from wearable devices, employing recurrent neural network (RNN) and long short-term memory (LSTM) models."
 
-      - title: Neural Network vs. Traditional Models in ICU Death Prediction: A Comprehensive Analysis (Group Work)
+      - title: Neural Network vs. Traditional Models in ICU Death Prediction, A Comprehensive Analysis (Group Work)
         link: "https://drive.google.com/file/d/10Z2zonS_IdAnL73s3ubHT9kxTVxuAplD/view?usp=sharing"
         tagline: "Directed a research initiative evaluating the predictive effectiveness of a neural network model versus traditional methods (logistic regression and Bernoulli Naïve Bayes classifier) in forecasting ICU mortality. The project focused on meticulous feature curation and tackled class imbalance, offering a nuanced insight into the performance of each model."
         
