@@ -166,7 +166,7 @@ projects:
     intro: >
       
     assignments:
-      - title: Diabetes and Depression Prediction: A Comparison of Various Machine Learning Techniques (Group Work)
+      - title: Diabetes and Depression Prediction A Comparison of Various Machine Learning Techniques (Group Work)
         link: "https://drive.google.com/file/d/1FaQCDzNKvVViknqpNF_s4hxz8ZMiDK6m/view?usp=sharing"
         tagline: "Employed logistic regression, neural network, and XGBoost models to attain precise predictions, advancing the landscape of proactive healthcare interventions."
         
