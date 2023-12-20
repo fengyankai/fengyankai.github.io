@@ -121,7 +121,7 @@ experiences:
         - Actively collaborated with geneticists, clinicians, and other researchers to incorporate host and virus genetics 
         into the modeling process.
     - role: Consultant Intern
-      time: May.2021 - Aug.2021
+      time: May 2021 - Aug 2021
       company: Shanghai Pera Global Corporation Ltd
       details: | 
         - Explored and Collected information on 17,444 enterprises that operates in 
@@ -151,7 +151,7 @@ experiences:
         - Delivered prepared lessons, exerciser, examination to students including 
         listening, speaking, reading and writing.
     - role: Vice President
-      time: Aug.2020 - Jun.2021                        
+      time: Aug 2020 - Jun 2021                        
       company: Chinese Children Hope Offered（ECCHO）
       details: |
         - Developed and executed marketing strategies based on evolving market needs back with 
@@ -166,7 +166,10 @@ projects:
     intro: >
       
     assignments:
-     
+      - title: Diabetes and Depression Prediction: A Comparison of Various Machine Learning Techniques (Group Work)
+        link: "https://drive.google.com/file/d/1FaQCDzNKvVViknqpNF_s4hxz8ZMiDK6m/view?usp=sharing"
+        tagline: "Employed logistic regression, neural network, and XGBoost models to attain precise predictions, advancing the landscape of proactive healthcare interventions."
+        
       - title: Attorneys and Clients Data Analysis for American Bar Association with NLP (Group Work)
         link: "https://drive.google.com/file/d/1hdqCiZ1ZMOrZW6cvTNGUFDAZM8U5_Ozh/view?usp=drive_link"
         tagline: "Constructed sentiment analysis and demographic analysis to provide actionable insights and recommendations to the ABA, aiming to enhance communication between clients and attorneys, and optimize human resource allocation."
