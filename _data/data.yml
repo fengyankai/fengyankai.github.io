@@ -50,10 +50,10 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-       - 3 year of experience in executing data-driven solutions to increase efficiency, 
+       - 4 year of experience in executing data-driven solutions to increase efficiency, 
        accuracy and utility of internal data processing. 
        
-       - 2+ years of experience in strategizing, interpreting and effectively analyzing 
+       - 3+ years of experience in strategizing, interpreting and effectively analyzing 
        an assort data attributes in streamlining the insight conversion process through 
        leveraging various data languages such as R and Python.
        
@@ -79,7 +79,13 @@ education:
       university: University of Toronto - St. George Campus
       time: Incoming
       details: |
-    
+          - Laboratory in Statistical Design and Analysis
+          - Categorical Data Analysis
+          - Mathematical Foundations of Biostatistics
+          - Introduction to Statistical Methods for Clinical Trials
+          - Applied Machine Learning for Health Data
+          - Introduction to Public Health
+          
     - degree: BSc Applied Mathematics Specialist & Statistics Major
       university: University of Toronto - St. George Campus
       time: 2019 - 2023
