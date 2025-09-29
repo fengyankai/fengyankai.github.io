@@ -8,11 +8,11 @@ sidebar:
 
     # Profile information
     name: Yankai Feng
-    tagline: A Student at the University of Toronto
+    tagline: Research Methods Specialist @ CAMH | Biostatistics
     avatar: profile11.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: yankai0310@gmail.com
+    email: yankai0414@gmail.com
     phone: 647-809-0310
     citizenship: 
     website: #do not add http://
@@ -77,7 +77,7 @@ career-profile:
 education:
     - degree: Master of Science in Biostatistics
       university: University of Toronto - St. George Campus
-      time: Incoming
+      time: 2023 - 2024
       details: |
           - Laboratory in Statistical Design and Analysis
           - Categorical Data Analysis
@@ -112,14 +112,31 @@ education:
           - Complex Variables (GPA 3.7/4.0)
         
 experiences:
-    - role: Practicum Student
-      time: Oct 2023 - Present
+    - role: Research Methods Specialist
+      time: Feb 2025 - Present
+      company: The Centre for Addiction and Mental Health （CAMH）
+      details: | 
+        - Statistical Modeling: Performed advanced analyses in R, Python, and SPSS, applying linear mixed models (LMM), generalized estimating equations (GEE), and survival analysis to assess treatment effects, behavioral outcomes, and biomarker trajectories in longitudinal clinical datasets.
+        - Data Preparation, Missing Data & Exploratory Analysis: Implemented multiple imputation to address missing data, conducted exploratory data analysis (EDA), and carried out rigorous quality checks to ensure validity and robustness of results in both clinical trials and observational studies; applied regression tree approaches for exploratory subgroup identification.
+        - REDCap Database Design & QC: Designed and maintained REDCap databases, including form development, validation rules, and workflow management, with ongoing quality control (QC) to safeguard data accuracy, integrity, and completeness.
+        - Automation & Dashboards: Leveraged the REDCap API and large language models (LLMs) with R Shiny dashboards to automate data updates and monitoring from REDCap, enabling real-time tracking of study progress, completeness, and quality indicators.
+        - SOP & Collaboration: Authored Standard Operating Procedures (SOPs) to establish standardized, reproducible analytic workflows in compliance with institutional standards. Collaborated with clinicians, statisticians, and epidemiologists to translate complex results into clinically interpretable insights supporting peer-reviewed publications, grant applications, and scientific presentations.
+        
+    - role: Data Research Analyst
+      time: Jun 2024 - Feb 2025
       company: Lunenfeld-Tanenbaum Research Institute Sinai Health
       details: | 
-        - Conducted in-depth analysis of longitudinal serological profiles using linear mixed effects models.
-        - Applied quantile regression to identify distinct groups of serological profiles among COVID-19 patients.
-        - Actively collaborated with geneticists, clinicians, and other researchers to incorporate host and virus genetics 
-        into the modeling process.
+        - Conducted comparative effectiveness analyses of Trimodality Therapy (TMT) and Radical Cystectomy (RadC) for muscle-invasive bladder cancer using SAS and R, applying doubly robust multivariable models to adjust for confounding.
+        - Applied Fine and Gray regression with doubly robust estimation to account for competing risks, yielding precise estimates of treatment effects on overall and cancer-specific mortality.
+        - Implemented inverse probability treatment weighting (IPTW) and propensity score matching (PSM) to balance baseline covariates and reduce selection bias in treatment comparisons.
+        - Designed and executed trial emulation approaches to address immortal time bias, ensuring valid and unbiased evaluation of treatment efficacy.
+    - role: Practicum Student
+      time: Oct 2023 - Jun 2024
+      company: Lunenfeld-Tanenbaum Research Institute Sinai Health
+      details: | 
+        - Performed advanced longitudinal analyses of serological profiles using R and Python, applying linear mixed-effects models to characterize antibody response dynamics to vaccination.
+        - Applied quantile regression to assess heterogeneous vaccine effects across antibody distributions, generating insights that informed public health vaccination strategies.
+        - Analyzed longitudinal antibody trajectories across different vaccination groups using mixed-effects modeling, revealing dose-dependent effects on antibody levels and supporting personalized vaccination strategies.
     - role: Consultant Intern
       time: May 2021 - Aug 2021
       company: Shanghai Pera Global Corporation Ltd
